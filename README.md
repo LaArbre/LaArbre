@@ -6,9 +6,9 @@ Bonjour, je suis étudiant en deuxième année de BTS SIO option SLAM. Intérêt
 
 <div align="center">
 
-| Langages | Web | Bases de données |
+| Langages | Bases de données | Web |
 |---|---|---|
-| [![Langages](https://skillicons.dev/icons?i=python,js,java,cpp,php)](https://skillicons.dev) | [![Web](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,markdown)](https://skillicons.dev) | [![DB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) |
+| [![Langages](https://skillicons.dev/icons?i=python,js,java,cpp,php)](https://skillicons.dev) | [![DB](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![Web](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,markdown)](https://skillicons.dev) | 
 
 </div>
 
