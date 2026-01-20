@@ -1,16 +1,25 @@
-## Hi there 👋
+## À propos
 
-<!--
-**LaArbre/LaArbre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour, je suis étudiant en deuxième année de BTS SIO option SLAM. Intérêt particulier pour le développement web, applicatif et la conception logicielle. Mon objectif est d’améliorer mes capacités techniques et de documenter mes réalisations au fil de mon apprentissage.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+<div align="center">
+  
+[![Langages](https://skillicons.dev/icons?i=python,java,php,cpp,js)](https://skillicons.dev)  
+[![Web](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)  
+[![Outils](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)  
+[![DB](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Portfolio et travaux
+
+Tu peux consulter mes réalisations et projets directement dans mes dépôts publics ainsi que sur les pages dédiées de ce portfolio.
+
+[Accéder au portfolio](https://laarbre.github.io/Portfolio/)  
+[Accéder aux dépôts GitHub](https://github.com/laarbre?tab=repositories)
