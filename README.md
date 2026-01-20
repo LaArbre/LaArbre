@@ -2,8 +2,6 @@
 
 Bonjour, je suis étudiant en deuxième année de BTS SIO option SLAM. Intérêt particulier pour le développement web, applicatif et la conception logicielle. Mon objectif est d’améliorer mes capacités techniques et de documenter mes réalisations au fil de mon apprentissage.
 
----
-
 ## Compétences
 
 <div align="center">
@@ -15,11 +13,6 @@ Bonjour, je suis étudiant en deuxième année de BTS SIO option SLAM. Intérêt
 </div>
 
 
-
-
-</div>
-
----
 
 ## Portfolio et travaux
 
